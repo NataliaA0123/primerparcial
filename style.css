@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(250, 233, 236);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+   
+    display: flex;
+    height: 100px;
+    background: #f7f4f4;
+}
+
+.container{
+    max-width: 400px;
+    height: 200px;
+    margin: 10px;
+    display: flex;
+}
+
+
+   
+.html{
+    text-align: center;
+    background-color: #f7f4f4;
+    width : 300px;
+    margin : 5px;
+        
+}
